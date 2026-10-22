@@ -1,0 +1,31 @@
+
+# Node
+node_modules/
+dist/
+coverage/
+
+# Java
+target/
+build/
+.gradle/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Local development data
+*.local
