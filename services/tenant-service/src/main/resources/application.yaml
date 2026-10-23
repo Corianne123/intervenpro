@@ -10,9 +10,9 @@ management:
     web:
       exposure:
         include: health,info
-        endpoint:
-          health:
-            show-details: never
+  endpoint:
+    health:
+      show-details: never
 
 info:
   app:

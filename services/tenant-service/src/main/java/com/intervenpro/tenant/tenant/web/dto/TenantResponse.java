@@ -1,4 +1,4 @@
-package com.intervenpro.tenant.tenant.infrastructure.dto;
+package com.intervenpro.tenant.tenant.web.dto;
 
 import java.util.UUID;
 

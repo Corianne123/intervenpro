@@ -1,10 +1,10 @@
-package com.intervenpro.tenant.tenant.web;
+package com.intervenpro.tenant.tenant.web.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.intervenpro.tenant.tenant.infrastructure.dto.TenantResponse;
+import com.intervenpro.tenant.tenant.web.dto.TenantResponse;
 
 import java.util.UUID;
 
